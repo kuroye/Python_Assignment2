@@ -14,7 +14,7 @@ pip install requests
 
 ## Usage
 
-import Package and Class
+import Package and Class to your python file
 ```
 from Assignment2 import Scrapper
 ```
