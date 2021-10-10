@@ -1,0 +1,7 @@
+The required libraries
+
+- Beautifulsoup4
+
+- Reaquests
+
+- pprint
